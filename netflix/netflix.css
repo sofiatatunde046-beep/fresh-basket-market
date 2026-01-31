@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header-container {
+    display: flex;
+    height: 100vh;
+    background-color: ;
+    justify-content: center;
+}
+.form-container {
+    display: flex;
+    justify-content: center;
+    background-color:#0c0a09 ;
+}
+.form-title {
+
+    text-align: center;
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+
+}
+.sign-button {
+    background-color:#ef4444;
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+    
+}
